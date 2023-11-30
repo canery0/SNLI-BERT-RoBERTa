@@ -1,6 +1,5 @@
 # BERT_NLI  
-CSE 842 - NLP Project  
-By:
+Contributers:
 - Siddharth Ashok Unnithan
 - Sangeetha Suresh
 - Megha Viswanath
